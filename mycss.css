@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(123deg, #7300d1 55%, #ffffff 100%);
+    filter: saturate(200%);
+    font-family: 'Protest Guerrilla', sans-serif;
+    
+
+}
+.nav-link {
+    color: aquamarine;
+}
+.navbar-nav .nav-link.active {
+    color: blueviolet;
+}
+.navbar-brand>img {
+    width: 40px;
+}
+.navbar-toggler {
+    background-color: red;
+}
+.saidbar {
+    color: aquamarine;
+    letter-spacing: 7px;
+    background: #ffffff url(https://i.pinimg.com/564x/b0/66/32/b06632c09073db7c5f15a34581dd1452.jpg) center center/cover no-repeat;
+    /* background: #ffffff url(https://i.pinimg.com/564x/da/81/50/da815098725f7d4aeb8583a00f1a858d.jpg) center center/cover no-repeat;
+    */
+}
+h5{
+    color: rgb(214, 25, 8);
+    letter-spacing: 7px;
+}
+.s {
+    text-align: center;
+}
